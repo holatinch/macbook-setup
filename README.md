@@ -4,7 +4,6 @@ A simple list of the software that I use.
 Hello! This is a very basic and simple list of the software that I am using nowadays as a designer and developer. Maybe you find it useful, or maybe not. In both cases, simply enjoy and, if you wish, you can advise me on other useful software that I can use. Thank you!
 
 ## Basic
-- [MacOS Big Sur](https://www.apple.com/macos/big-sur/)
 - [iTerm2](https://iterm2.com/)
 - [Fish](https://fishshell.com/) and [OMF](https://github.com/oh-my-fish/oh-my-fish)
 - [Homebrew](https://brew.sh/)
